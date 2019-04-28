@@ -1,0 +1,113 @@
+[
+  {
+    "project": 5,
+    "description": "Buy cheaper paper clips",
+    "start date": "2019-06-13T00:00:00+00:00",
+    "category": "Office supplies",
+    "responsible": "John Doe",
+    "savings amount": 1000.00,
+    "currency": "NULL",
+    "complexity": "Medium"
+  },
+  {
+    "project": 5,
+    "description": "Switch to synthetic brushes",
+    "start date": "2019-08-21T00:00:00+00:00",
+    "category": "Manufacturing",
+    "responsible": "Jane Roe",
+    "savings amount": 2002.25,
+    "currency": "USD",
+    "complexity": "High"
+  },
+  {
+    "project": 8,
+    "description": "Buy paper in bulk",
+    "start date": "2019-08-30T00:00:00+00:00",
+    "category": "Office supplies",
+    "responsible": "John Doe",
+    "savings amount": 5000.00,
+    "currency": "EUR",
+    "complexity": "Low"
+  },
+  {
+    "project": 8,
+    "description": "Switch to synthetic meshes",
+    "start date": "2020-01-02T00:00:00+00:00",
+    "category": "Manufacturing",
+    "responsible": "Jane Roe",
+    "savings amount": 3333.33333333,
+    "currency": "NULL",
+    "complexity": "Medium"
+  },
+  {
+    "project": 8,
+    "description": "Buy LED lamps",
+    "start date": "2022-04-14T00:00:00+00:00",
+    "category": "Office supplies",
+    "responsible": "John Doe",
+    "savings amount": 3141.59265359,
+    "currency": "USD",
+    "complexity": "High"
+  },
+  {
+    "project": 3,
+    "description":
+      "Buy parts from other manufacturers instead of making them ourselves",
+    "start date": "2022-04-14T00:00:00+00:00",
+    "category": "Manufacturing",
+    "responsible": "Jane Roe",
+    "savings amount": 8025.25,
+    "currency": "EUR",
+    "complexity": "Low"
+  },
+  {
+    "project": 3,
+    "description": "Grow tea in rooftop garden",
+    "start date": "2019-06-13T00:00:00+00:00",
+    "category": "Office supplies",
+    "responsible": "John Doe",
+    "savings amount": 9424.777960769,
+    "currency": "NULL",
+    "complexity": "Medium"
+  },
+  {
+    "project": 6,
+    "description": "Switch from platic to wood",
+    "start date": "2019-02-28T00:00:00+00:00",
+    "category": "Manufacturing",
+    "responsible": "Jane Roe",
+    "savings amount": 500,
+    "currency": "USD",
+    "complexity": "High"
+  },
+  {
+    "project": 6,
+    "description": "Grow fruit in rooftop garden",
+    "start date": "2019-06-13T00:00:00+00:00",
+    "category": "Office supplies",
+    "responsible": "John Doe",
+    "savings amount": 9999.99999999,
+    "currency": "EUR",
+    "complexity": "Low"
+  },
+  {
+    "project": 3,
+    "description": "Use local materials",
+    "start date": "2023-07-05T00:00:00+00:00",
+    "category": "Manufacturing",
+    "responsible": "Jane Roe",
+    "savings amount": 2104.32,
+    "currency": "NULL",
+    "complexity": "Medium"
+  },
+  {
+    "project": 3,
+    "description": "Turn of lights at night",
+    "start date": "2019-06-13T00:00:00+00:00",
+    "category": "Office supplies",
+    "responsible": "John Doe",
+    "savings amount": 1000.54,
+    "currency": "USD",
+    "complexity": "High"
+  }
+]
