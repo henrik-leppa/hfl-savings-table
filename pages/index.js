@@ -86,6 +86,7 @@ class Index extends React.Component {
               viewColumns: false,
               selectableRows: false,
               caseSensitive: false,
+              responsive: 'scroll',
             }}
             columns={[
               {

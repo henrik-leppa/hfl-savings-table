@@ -13,6 +13,14 @@ Versioning].
 [(See this file in `develop` branch.)][Development Changelog]
 
 
+[0.1.1] – 2019-07-29
+--------------------
+
+### Security
+
+- Update dependencies
+
+
 [0.1.0] – 2019-04-28
 --------------------
 
@@ -28,6 +36,8 @@ Versioning].
 [Development Changelog]:
   https://github.com/henrik-leppa/hfl-savings-table/blob/develop/CHANGELOG.md
 [Unreleased]:
-  https://github.com/henrik-leppa/hfl-savings-table/compare/0.1.0...develop
+  https://github.com/henrik-leppa/hfl-savings-table/compare/master...develop
+[0.1.1]:
+  https://github.com/henrik-leppa/hfl-savings-table/compare/0.1.0...0.1.1
 [0.1.0]:
   https://github.com/henrik-leppa/hfl-savings-table/compare/69b559d558b9d5d669cf08a3b09ff76e1c4d65a6...0.1.0
