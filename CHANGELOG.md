@@ -12,6 +12,10 @@ Versioning].
 
 [(See this file in `develop` branch.)][Development Changelog]
 
+### Security
+
+- Update dependencies
+
 
 [0.1.0] – 2019-04-28
 --------------------
