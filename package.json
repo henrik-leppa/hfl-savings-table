@@ -1,6 +1,6 @@
 {
   "name": "hfl-savings-table",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "App that displays a searchable and sortable table of savings",
   "author": "Henrik Franciscus Leppä",
   "license": "MIT",
