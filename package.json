@@ -40,7 +40,7 @@
     "jss": "^9.8.7",
     "moment": "^2.24.0",
     "mui-datatables": "^2.6.4",
-    "next": "^9.0.2",
+    "next": "^9.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
