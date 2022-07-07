@@ -38,7 +38,7 @@
     "@material-ui/icons": "^4.2.1",
     "isomorphic-unfetch": "^3.0.0",
     "jss": "^9.8.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mui-datatables": "^2.6.4",
     "next": "^9.0.2",
     "prop-types": "^15.7.2",
